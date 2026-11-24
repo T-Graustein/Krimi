@@ -1,31 +1,29 @@
-# Kapitelplan (ca. 50 Normseiten, 12 Kapitel)
+# Kapitelplan (mindestens 50, Ziel ca. 70 Normseiten · 10 Kapitel à 6 bis 9 Seiten)
 
-Legende: [M] Martina erzählt · [D] Dokument von Korbi (Tagebuch, Einsatzbefehl, Einsatzbericht, Gesprächsprotokoll)
+Legende: [M] Martina erzählt (Ich-Form, Präsens) · [D] Dokumente von Udo oder über ihn
 
-Leitmotiv: das Lied „Ich liebe dich“ (Clowns & Helden, 1986). Es läuft am 16. August 1988 im Dienstwagen und 2009 in Seattle in Didis Club. Es wird nur in Fetzen zitiert.
+Leitmotiv: „Ich liebe dich“ (Clowns & Helden, 1986), das Lied aus ihrem letzten gemeinsamen Sommer. Es läuft am 11.08.1988 im Lagezentrum im Radio, 2009 in Martinas Küche und in Didis Club, am Ende in Udos Brief.
 
 | Nr | Seiten | Form | Inhalt | Schmerz / Spannung |
 |---|---|---|---|---|
-| 1 | 4 | [D] Einsatzbefehl + Einsatzbericht, 16.08.1988 | Bankraub mit Geiselnahme, Verfolgung auf der A2. Der Bericht stammt vom Kollegen und endet mit „KK Strasser schwer verletzt“. | Leser wissen sofort: Das geht schief. |
-| 2 | 4 | [M] Seattle, Mai 2009 | Martina bekommt eine Akte auf den Tisch: deutscher Austauschbeamter, 20 Jahre Koma. Der Name. Sie raucht nach elf Jahren wieder eine. | Rückblenden zu 1984, warum sie ging. |
-| 3 | 4 | [D] Tagebuch, Oktober 2008 bis März 2009 | Das Aufwachen. Die D-Mark ist weg, Handys sind überall, Sabine ist weg, Jenny sagt „Korbinian“. | Trockener Humor, der in Schmerz kippt. |
-| 4 | 5 | [D] Gesprächsprotokoll Nr. 1 + [M] | Erste Sitzung. Beide tun, als würden sie sich nicht kennen. Ab Minute 12 nicht mehr. | Das Abstinenzgebot: Sie müsste es melden. |
-| 5 | 4 | [M] | Mit Ray auf Streife. Ein toter Schleuser im Hafen, ein Label-Logo auf einem Feuerzeug. Korbi erkennt eine Narbe auf einem Foto: Didi. | Der Fall wird persönlich. |
-| 6 | 4 | [D] Tagebuch + Einsatzbericht SPD (übersetzt) | Korbi ermittelt auf eigene Faust und wird verwarnt. Am Abend Martinas Küche: das Lied aus dem Radio. | Die neue Liebe, gegen jede Vernunft. |
-| 7 | 5 | [M] | Martina beendet die Therapie und übergibt an einen Kollegen. Die Nacht. Am Morgen ein Anruf: Didi weiß, wer sie ist. | Glück und Bedrohung im selben Kapitel. |
-| 8 | 4 | [D] Gesprächsprotokoll mit dem neuen Therapeuten | Korbi erzählt dem Fremden, was er Martina nie gesagt hat: die Kugel, die wandert. | Die Leser wissen mehr als Martina. |
-| 9 | 4 | [M] | Begegnung mit Didi im Club. Sie erkennt den Jungen aus der Parallelklasse. Er ist charmant und erinnert sich an alles. | Das Dreieck wird sichtbar. |
-| 10 | 4 | [D] Einsatzbefehl + Tagebuch | Zugriff auf das Lagerhaus. Didi wird verhaftet, scheinbar. Am gleichen Abend ist Martina verschwunden. | Twist: Die Verhaftung war eingeplant. |
-| 11 | 5 | [M] immer kürzere Abschnitte | Martina in Gefangenschaft, vergiftet. Didi erzählt ihr von der Siebten Klasse. Sie zählt die Stunden. Das letzte Stück bricht mitten im Satz ab. | Der Wettlauf, aus ihrer Sicht. |
-| 12 | 3 | [D] Einsatzbericht, Vermerk, letzter Tagebucheintrag | Korbi findet sie, zu spät. Didi wird verurteilt. Der letzte Eintrag: Korbi schreibt ihr einen Brief, das Lied, eine Zeile. | Kein Trost. Ein offener Rest. |
+| 1 | 7 | [D] Einsatzbefehl · [M] · [D] Einsatzbericht | 11.08.1988. Bankraub mit Geiselnahme in Kirchhellen, Verfolgung auf der A2, Presse am Fluchtwagen. Martina, seit sechs Wochen Polizeipsychologin, hört im Lagezentrum Udos Stimme über Funk. Udo erkennt den Fahrer: Didi. Schuss. Krankenhaus: Sabine drückt Martina das Baby in den Arm. | Haken auf Seite 1: seine Stimme nach zwei Jahren. Ende: das Kind seiner Affäre im Arm. |
+| 2 | 7 | [D] Tagebuch, Okt. 2008 bis Febr. 2009 | Aufwachen nach 20 Jahren. Euro, Handys, Rauchverbot, Schalke spielt in einer Arena mit Dach. Sabine ist seit 15 Jahren weg. Jenny, 21, sagt „Udo“. Reha, und er will zurück in den Dienst. | Trockener Humor, der in Schmerz kippt. |
+| 3 | 7 | [D] Dienstliche Verfügung · [M] Seattle, Mai 2009 | Udo wird über ein Austauschprogramm zum Seattle PD abgeordnet, offiziell als Neustart, in Wahrheit wird er weggelobt. Martina bekommt seine Akte als Therapeutin auf den Tisch. Sie raucht nach elf Jahren wieder eine. | Sie könnte ablehnen. Sie tut es nicht. |
+| 4 | 7 | [D] Gesprächsprotokolle 1 bis 3 · [M] | Die ersten Sitzungen. Beide tun, als würden sie sich nicht kennen, und ab Minute 12 nicht mehr. „Sag der Tini nix.“ Sie liest den alten Einsatzbericht. | Abstinenzgebot. Alte Schuld. |
+| 5 | 7 | [M] · [D] Einsatzbericht SPD (übersetzt) | Mit Partner Ray im Hafen: ein toter Schleuser, ein Feuerzeug mit eingeritztem „M“ und einem Label-Logo. Udo sieht ein Foto des Labelchefs Dean Wozniak und erkennt Didi. | Der Fall wird persönlich. |
+| 6 | 7 | [D] Tagebuch · [M] | Udo ermittelt auf eigene Faust und wird verwarnt. Abends in Martinas Küche das Lied. Sie beendet die Therapie und übergibt ihn an einen Kollegen. Die Nacht. | Die neue Liebe, gegen jede Vernunft. |
+| 7 | 7 | [D] Protokoll beim neuen Therapeuten · [M] | Udo erzählt dem Fremden, was er Martina verschweigt: Die Kugel wandert. Martina trifft Didi im Club, der sich an alles erinnert, auch an ihre Zigarettenmarke von 1986. | Die Leser wissen mehr als sie. Das Dreieck wird sichtbar. |
+| 8 | 7 | [D] Einsatzbefehl · Tagebuch | Zugriff auf das Lagerhaus. Didi lässt sich festnehmen, zu leicht. Ray merkt es, Udo nicht. Am Abend ist Martina verschwunden. | Twist: Die Verhaftung war eingeplant. |
+| 9 | 8 | [M], immer kürzere Abschnitte | Martina in Gefangenschaft, vergiftet. Didi erzählt ihr von der Siebten Klasse. Sie zählt die Stunden und hört über Didis Funkscanner, wie Udo sucht. Das letzte Stück bricht mitten im Satz ab. | Der Wettlauf, aus ihrer Sicht. |
+| 10 | 7 | [D] Einsatzbericht · Vermerk · Urteil · Brief | Udo findet sie, zu spät. Didi wird verurteilt. Der letzte Tagebucheintrag ist ein Brief an Tini. | Kein Trost. Ein offener Rest: die Kugel. |
 
-Summe: ca. 50 Seiten.
+Summe: ca. 71 Seiten.
 
-## Faire Krimi-Hinweise (für aufmerksame Leser)
-- Kap. 1: Der Fahrer trägt ein Feuerzeug mit eingeritztem „M“.
-- Kap. 5: dasselbe Feuerzeug, jetzt mit Label-Logo.
-- Kap. 9: Didi weiß, welche Zigarettenmarke Martina 1984 geraucht hat.
-- Kap. 10: Didi lässt sich zu leicht festnehmen. Ray merkt es, Korbi nicht, weil er verliebt ist.
+## Faire Krimi-Hinweise
+- Kap. 1: Didi hat in der Schule allen die Zigarette angezündet, nie seine eigene. Ein Zippo.
+- Kap. 5: dasselbe Zippo, mit eingeritztem „M“.
+- Kap. 7: Didi kennt Martinas Zigarettenmarke von 1986.
+- Kap. 8: Didi lässt sich zu leicht festnehmen.
 
-## Gift (nur als Plotmechanik, im Text bleibt es vage)
-Ein seltenes, langsam wirkendes Gift. Das Gegenmittel gibt es nur in einer Klinik. Didi kennt die Frist und lässt Korbi die Zeit dabei zusehen. Keine Dosierungen und keine echten Herstellungsdetails im Text.
+## Gift (nur Plotmechanik)
+Ein seltenes, langsam wirkendes Gift, das Gegenmittel gibt es nur in einer Klinik. Didi kennt die Frist. Im Text keine Dosierungen und keine Herstellungsdetails.

@@ -1,6 +1,6 @@
 # Krimi-Projekt: Arbeitsanweisung für Claude
 
-Ziel: ein deutscher Kriminalroman von ca. 50 Normseiten (je 1.800 Zeichen, also rund 90.000 Zeichen bzw. 13.000 bis 15.000 Wörter), der sich wie das Buch eines Menschen liest.
+Ziel: ein deutscher Kriminalroman von **mindestens** 50 Normseiten (je 1.800 Zeichen), mehr ist besser. Kapitel haben **6 bis 9 Normseiten** (ca. 11.000 bis 16.000 Zeichen). Er soll sich wie das Buch eines Menschen lesen. Die ersten 3 Seiten von Kapitel 1 entscheiden, ob jemand weiterliest.
 
 ## Gedächtnis (wird automatisch geladen)
 
@@ -18,7 +18,7 @@ Regeln dazu:
 |---|---|
 | 1. Idee, Prämisse, Figuren, Plot | `/apodictic:pre-writing`, `/apodictic:plot-coach` (Krimi-Struktur: Leiche früh, falsche Fährten, fair gelegte Hinweise) |
 | 2. Weltbibel / Kontinuität | `/apodictic:world-bible` + `plan/` |
-| 3. Kapitel schreiben | **im Google-Drive-Dokument des Nutzers** (Link folgt, in `plan/DRIVE.md` eintragen). Für das Prüfskript zusätzlich eine lokale Kopie unter `manuskript/kapitel-XX.md` anlegen. Je Kapitel 3 bis 6 Normseiten. Vor jeder Schreibaktion in Drive sagen, was geändert wird. |
+| 3. Kapitel schreiben | **im Google-Drive-Dokument des Nutzers** (Link folgt, in `plan/DRIVE.md` eintragen). Für das Prüfskript zusätzlich eine lokale Kopie unter `manuskript/kapitel-XX.md` anlegen. Je Kapitel 6 bis 9 Normseiten. Vor jeder Schreibaktion in Drive sagen, was geändert wird. |
 | 4. KI-Spuren-Prüfung | `python3 werkzeuge/ki_check.py manuskript/kapitel-XX.md` + Checkliste `regeln/KI-MERKMALE.md`; falls installiert: Skill `anti-ai-writing` (Review-Modus) |
 | 5. Handwerks-Audits | `/apodictic:audit` (Spannung, Szenenwende, Figuren), `/apodictic:genre-reader-audits` (Krimi-Lesererwartung), `/apodictic:prose-measurements` (AI-prose calibration) |
 | 6. Lektorat | `/apodictic:copyedit` (ohne die Stimme glattzubügeln) |

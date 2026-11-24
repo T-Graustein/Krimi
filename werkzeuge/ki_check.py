@@ -16,6 +16,7 @@ from collections import Counter
 ROT = [
     (r"—", "Geviertstrich (—)"),
     (r"\bnicht nur\b[^.!?]{0,120}\bsondern( auch)?\b", "Negativer Parallelismus „nicht nur … sondern“"),
+    (r"\bEs (war|ist) kein(e[nr]?)? [^.!?]{1,40}[.!?]\s*Es (war|ist) ein", "„Es war kein X. Es war ein Y.“"),
     (r"\bEs ging nicht um\b[^.!?]*[.!?]\s*Es ging um\b", "„Es ging nicht um X. Es ging um Y.“"),
     (r"\b(Zeugnis|Testament) (für|von|ihrer|seiner|des|der)\b", "Bedeutungs-Aufblähung: Zeugnis"),
     (r"\b(spielte|spielt) eine (entscheidende|zentrale|wichtige|bedeutende|Schlüssel)rolle\b|\beine (entscheidende|zentrale|wichtige|bedeutende) Rolle\b", "„spielte eine entscheidende Rolle“"),
@@ -43,7 +44,9 @@ GELB = [
     (r"\b(im Zusammenhang mit|in Verbindung mit|assoziiert)\b", "Vage Verbindung"),
     (r"\b(Experten|Kritiker|Beobachter) (meinen|sagen|argumentieren)\b", "Vage Autorität"),
     (r",\s*was (die|den|das|ihre|seine)\b[^.]{0,60}\b(unterstrich|verdeutlichte|widerspiegelte|betonte|zeigte)\b", "Oberflächliche Analyse am Satzende"),
-    (r"\b\w+end(e[nmrs]?)?[.!?]", "Partizip I am Satzende"),
+    (r"(?-i:\b[a-zäöüß]\w*end(e[nmrs]?)?)[.!?]", "Partizip I am Satzende"),
+    (r"\bnicht\b[^.!?]{0,60}, sondern\b", "Kontrast „nicht X, sondern Y“"),
+    (r"\b(Er|Sie|Es) \w+ nicht[.,] (er|sie|es) \w+\b", "Kontrast „Er schreit nicht, er bellt“"),
     (r"\bvon [^,.]{1,30} bis (hin )?zu?[mr]? [^,.]{1,30}", "Merismus „von … bis …“"),
     (r"\b(spürte|fühlte) (eine|einen|ein) (Welle|Anflug|Hauch|Stich)\b", "Gefühl benannt statt gezeigt"),
     (r"\b(verfasste|verstarb|verschied|nutzte|erwarb)\b", "Gestelztes Verb"),

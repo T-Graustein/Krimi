@@ -12,6 +12,21 @@ Format:
 
 ---
 
+## 2026-11-24 · Negative Parallelismen in Kapitel 1
+- Was passiert ist: „Es war kein Wechsel. Es war ein Schuss.“, „Er schreit nicht, er bellt.“ und „nicht …, sondern …“ standen im Entwurf. Das Skript hat sie nicht erkannt, erst das Gegenlesen.
+- Warum es ein Fehler war: Genau das ist laut Wikipedia eins der stärksten KI-Muster.
+- Regel für die Zukunft: Diese Kontrastfigur gar nicht erst schreiben. Das Skript prüft jetzt alle drei Formen. Zusätzlich vor jeder Abgabe nach „nicht“ suchen und jede Fundstelle lesen.
+
+## 2026-11-24 · Blindes Suchen-und-Ersetzen bei Namensänderung
+- Was passiert ist: Beim Umbenennen von „Korbi“ zu „Udo“ wurde aus „Korbinian“ ein „Udonian“, und ein Satz in CLAUDE.md wurde zerschnitten.
+- Warum es ein Fehler war: Kaputte Namen im Plan wandern ins Manuskript.
+- Regel für die Zukunft: Namen nur mit Wortgrenzen ersetzen (längste Form zuerst) und danach per grep prüfen. Nach jeder Ersetzung die geänderten Zeilen lesen.
+
+## 2026-11-24 · Kapitel zu kurz geplant
+- Was passiert ist: Ich hatte Kapitel mit 3 bis 5 Seiten geplant und 50 Seiten als Ziel gesetzt.
+- Warum es ein Fehler war: Der Nutzer will mindestens 50 Seiten und Kapitel mit 6 bis 9 Seiten. Kurze Kapitel zerstückeln die Spannung.
+- Regel für die Zukunft: Jedes Kapitel vor der Abgabe mit ki_check.py messen (zeigt Normseiten). Unter 6 Seiten ist es nicht fertig.
+
 ## 2026-11-24 · Prüfskript übersah Satzanfänge
 - Was passiert ist: „Und er ahnte nicht …“ (großes U) und „Darüber hinaus“ ohne folgendes Komma rutschten durch ki_check.py.
 - Warum es ein Fehler war: Regeln, die nur in einer Schreibweise greifen, wiegen in falscher Sicherheit.
