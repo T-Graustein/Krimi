@@ -34,4 +34,4 @@
 - US-Dokumente werden ins Deutsche übersetzt.
 - Humor: trockener als ein Martini, viel Ruhrpott-Witz.
 - Ihr Lied: „Ich liebe dich“ von Clowns & Helden (1986). Nur kurze Zitate (§ 51 UrhG).
-- Verwendungszweck laut Nutzer: Schulaufgabe des Sohnes. Das ist noch zu klären, siehe Chat.
+- Verwendungszweck: gemeinsames Projekt von Vater und Sohn, wird später vom Vater weiterverwendet. Die Zusammenarbeit wird offengelegt. Empfehlung: im Vermerk auch die KI-Unterstützung nennen.
