@@ -2,4 +2,8 @@
 
 https://docs.google.com/document/d/10lSisi2Mo6OBO3Vlew9wT8eYeo40hmRstff4XBb1aqc/edit
 
-Stand 2026-11-24: leer. Vor jeder Schreibaktion sagen, was geändert wird.
+| Kapitel | Im Doc | Stand |
+|---|---|---|
+| 1 „Eins“ | ja, 24.11.2026 | Überschrift 1, Absatzabstand 8 pt, Szenentrenner „*“ zentriert |
+
+Regeln: Vor jeder Schreibaktion sagen, was geändert wird. Immer mit `requiredRevisionId` schreiben, danach mit `read_doc` prüfen. Neue Kapitel ans Ende anhängen (Body-Ende minus 1).
