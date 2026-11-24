@@ -18,7 +18,7 @@ Regeln dazu:
 |---|---|
 | 1. Idee, Prämisse, Figuren, Plot | `/apodictic:pre-writing`, `/apodictic:plot-coach` (Krimi-Struktur: Leiche früh, falsche Fährten, fair gelegte Hinweise) |
 | 2. Weltbibel / Kontinuität | `/apodictic:world-bible` + `plan/` |
-| 3. Kapitel schreiben | in `manuskript/kapitel-XX.md`, je Kapitel 3 bis 6 Normseiten |
+| 3. Kapitel schreiben | **im Google-Drive-Dokument des Nutzers** (Link folgt, in `plan/DRIVE.md` eintragen). Für das Prüfskript zusätzlich eine lokale Kopie unter `manuskript/kapitel-XX.md` anlegen. Je Kapitel 3 bis 6 Normseiten. Vor jeder Schreibaktion in Drive sagen, was geändert wird. |
 | 4. KI-Spuren-Prüfung | `python3 werkzeuge/ki_check.py manuskript/kapitel-XX.md` + Checkliste `regeln/KI-MERKMALE.md`; falls installiert: Skill `anti-ai-writing` (Review-Modus) |
 | 5. Handwerks-Audits | `/apodictic:audit` (Spannung, Szenenwende, Figuren), `/apodictic:genre-reader-audits` (Krimi-Lesererwartung), `/apodictic:prose-measurements` (AI-prose calibration) |
 | 6. Lektorat | `/apodictic:copyedit` (ohne die Stimme glattzubügeln) |
