@@ -17,10 +17,10 @@ Format:
 - Warum es ein Fehler war: Ein Krimi braucht eine Exposition (Grundstimmung, Ausgangssituation, Zeit, Ort, Figuren, laut Wikipedia „Exposition (Literatur)“), dann die Normalität und erst dann das „erregende Moment“, das sie zerbricht. Schulen bewerten die Einleitung. Ein Thriller beginnt mit „heiler kleiner Welt“ (Wikipedia „Kriminalroman“).
 - Regel für die Zukunft: Jedes Martina-Kapitel braucht Wärme, Sinneseindrücke, Erinnerungen und Zuneigung, auch wenn es weh tut. Behördendokumente nie an den Anfang eines Buches setzen. Der erste Absatz ist ein Haken in Martinas Stimme.
 
-## 2026-11-24 · Clowns & Helden falsch beschrieben
-- Was passiert ist: Ich schrieb von „der Sängerin“.
-- Warum es ein Fehler war: Clowns & Helden sind zwei Sänger (ein Mann und eine Frau) mit Band. Der Nutzer kennt das Lied.
-- Regel für die Zukunft: Bei echten Bands und Liedern nur schreiben, was der Nutzer bestätigt hat. Im Zweifel fragen.
+## 2026-11-24 · Clowns & Helden ZWEIMAL falsch beschrieben (Wiederholungsfehler!)
+- Was passiert ist: Erst schrieb ich von „der Sängerin“. Nach der Korrektur („zwei Sänger mit Band“) habe ich daraus eigenmächtig „ein Mann und eine Frau“ gemacht, ins Gedächtnis geschrieben und wieder eine Frauenstimme ins Kapitel gebaut.
+- Warum es ein Fehler war: Clowns & Helden sind eine reine Männerband, Sänger ist Carsten Pape (Foto vom Nutzer, 11.03.1987). „Sänger“ heißt Männer. Ich habe eine Lücke mit einer Vermutung gefüllt, statt nachzufragen.
+- Regel für die Zukunft: Bei echten Bands, Liedern, Personen und Orten NIE eine Lücke mit einer Vermutung füllen. Nur schreiben, was der Nutzer oder eine gelesene Quelle bestätigt. Eine Korrektur des Nutzers wörtlich übernehmen, nicht „interpretieren“. Im Lied gibt es KEINE Frauenstimme.
 
 ## 2026-11-24 · Spitzname „Bine“ fehlte
 - Was passiert ist: Sabine hieß überall nur „Sabine“.

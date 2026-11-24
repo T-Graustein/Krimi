@@ -10,6 +10,6 @@ Hier landet alles, was für den ganzen Roman gleich bleiben muss. Noch leer, wir
 - Ermittlerfigur: **Udo Strasser** (nicht Korbinian), geb. 1962, 20 Jahre Koma (1988 bis 2008). Sagt „Passt scho“. Pott-Deutsch mit bayerischem Rest. Martina heißt bei ihm „Tini“.
 - Sabine heißt bei Martina, im Präsidium und bei Udo „Bine“.
 - Martinas Stimme: warm, detailverliebt, selbstironisch, verliebt wider Willen. Keine Berichtssprache.
-- Lied: „Ich liebe dich“ (Clowns & Helden, zwei Sänger, Mann und Frau, mit Band). Claude zitiert nur kurz (Titelzeile). Längere Passagen fügt der Nutzer selbst ein, weil Claude den genauen Wortlaut nicht verlässlich kennt und keine langen Liedtexte wiedergibt.
+- Lied: „Ich liebe dich“ (Clowns & Helden: reine Männerband, Sänger Carsten Pape. Keine Frauenstimme!). Claude zitiert nur kurz (Titelzeile). Längere Passagen fügt der Nutzer selbst ein, weil Claude den genauen Wortlaut nicht verlässlich kennt und keine langen Liedtexte wiedergibt.
 - Verbotene Lieblingswörter dieses Manuskripts (Wiederholungen, die mir auffallen):
 - Wiederkehrende Motive:
