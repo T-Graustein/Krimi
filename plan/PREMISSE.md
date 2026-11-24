@@ -22,5 +22,16 @@
 
 **Ziel:** viel Schmerz und viel Spannung.
 
-## Offene Punkte
-Siehe die Fragen im Chat vom 24.11.2026 und die Antworten darauf. Sie werden hier nachgetragen.
+## Entscheidungen (Antworten vom 24.11.2026)
+- Start: 1988. Der Schuss fällt bei einer Verfolgung, die lose an das Gladbecker Geiseldrama angelehnt ist. Täter, Opfer und Namen sind erfunden.
+- Protagonist: geboren in Oberbayern, Mutter aus Kärnten, mit 26 einer der besten Kommissare des Landes.
+- Tochter: 21 beim Erwachen. Koma-Dauer: 20 Jahre (Vorschlag) oder 30 Jahre, noch offen.
+- Seattle: Austauschprogramm mit der dortigen Polizei, gedacht als Neustart.
+- Jugendliebe: Psychologin. Damals haben sie sich auseinandergelebt, weil er viele Affären hatte. Der Konflikt um das Abstinenzgebot ist gewollt.
+- Antagonist: ging mit beiden auf dieselbe Schule (andere Klasse). Groß geworden mit Drogen, Prostitution, Glücksspiel, Schleuserei und Schmuggel, heute Musikmagnat.
+- Finale: B. Die Jugendliebe stirbt an Gift, der Wettlauf gegen die Zeit geht verloren.
+- Erzähler: die Jugendliebe, personal. Der Protagonist spricht über seine Dokumente.
+- US-Dokumente werden ins Deutsche übersetzt.
+- Humor: trockener als ein Martini, viel Ruhrpott-Witz.
+- Ihr Lied: „Ich liebe dich“ von Clowns & Helden (1986). Nur kurze Zitate (§ 51 UrhG).
+- Verwendungszweck laut Nutzer: Schulaufgabe des Sohnes. Das ist noch zu klären, siehe Chat.
