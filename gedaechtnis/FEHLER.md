@@ -12,6 +12,20 @@ Format:
 
 ---
 
+## 2026-11-24 · Kapitel 1 begann ohne Exposition
+- Was passiert ist: Kapitel 1 stieg mit einem Einsatzbefehl ein und las sich wie ein Lagebericht. Die Erzählerin war zu trocken, es fehlten Liebe und Details.
+- Warum es ein Fehler war: Ein Krimi braucht eine Exposition (Grundstimmung, Ausgangssituation, Zeit, Ort, Figuren, laut Wikipedia „Exposition (Literatur)“), dann die Normalität und erst dann das „erregende Moment“, das sie zerbricht. Schulen bewerten die Einleitung. Ein Thriller beginnt mit „heiler kleiner Welt“ (Wikipedia „Kriminalroman“).
+- Regel für die Zukunft: Jedes Martina-Kapitel braucht Wärme, Sinneseindrücke, Erinnerungen und Zuneigung, auch wenn es weh tut. Behördendokumente nie an den Anfang eines Buches setzen. Der erste Absatz ist ein Haken in Martinas Stimme.
+
+## 2026-11-24 · Clowns & Helden falsch beschrieben
+- Was passiert ist: Ich schrieb von „der Sängerin“.
+- Warum es ein Fehler war: Clowns & Helden sind zwei Sänger (ein Mann und eine Frau) mit Band. Der Nutzer kennt das Lied.
+- Regel für die Zukunft: Bei echten Bands und Liedern nur schreiben, was der Nutzer bestätigt hat. Im Zweifel fragen.
+
+## 2026-11-24 · Spitzname „Bine“ fehlte
+- Was passiert ist: Sabine hieß überall nur „Sabine“.
+- Regel für die Zukunft: Martina, das Präsidium und Udo nennen sie „Bine“. Martina rutscht „seine Bine“ heraus, dann korrigiert sie sich auf „Sabine Heimann“.
+
 ## 2026-11-24 · Negative Parallelismen in Kapitel 1
 - Was passiert ist: „Es war kein Wechsel. Es war ein Schuss.“, „Er schreit nicht, er bellt.“ und „nicht …, sondern …“ standen im Entwurf. Das Skript hat sie nicht erkannt, erst das Gegenlesen.
 - Warum es ein Fehler war: Genau das ist laut Wikipedia eins der stärksten KI-Muster.
