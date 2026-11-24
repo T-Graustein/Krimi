@@ -12,6 +12,11 @@ Format:
 
 ---
 
+## 2026-11-24 · Nutzer bearbeitet das Google-Doc selbst
+- Was passiert ist: Der Nutzer hat im Doc eigene Änderungen gemacht. Meine lokale Kopie wusste davon nichts.
+- Warum es ein Fehler wäre: Ein Schreibvorgang auf Basis der alten lokalen Kopie würde seine Änderungen überschreiben.
+- Regel für die Zukunft: Das Google-Doc ist die Hauptfassung. Vor jedem Schreibvorgang das Doc lesen, Abweichungen in die lokale Kopie übernehmen und Änderungen des Nutzers nie ungefragt zurücksetzen. Sprachliche Auffälligkeiten in seinen Änderungen nur vorschlagen, nicht selbst korrigieren.
+
 ## 2026-11-24 · Kapitel 1 begann ohne Exposition
 - Was passiert ist: Kapitel 1 stieg mit einem Einsatzbefehl ein und las sich wie ein Lagebericht. Die Erzählerin war zu trocken, es fehlten Liebe und Details.
 - Warum es ein Fehler war: Ein Krimi braucht eine Exposition (Grundstimmung, Ausgangssituation, Zeit, Ort, Figuren, laut Wikipedia „Exposition (Literatur)“), dann die Normalität und erst dann das „erregende Moment“, das sie zerbricht. Schulen bewerten die Einleitung. Ein Thriller beginnt mit „heiler kleiner Welt“ (Wikipedia „Kriminalroman“).
